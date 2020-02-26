@@ -29,7 +29,6 @@ Chat.prototype.toJSON = function toJSON() {
     message: this.message,
     nick: this.nick,
     room: this.room,
-
   };
 };
 
